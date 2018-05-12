@@ -1,0 +1,38 @@
+_repo: The-Panjab-North-West-Frontier-Province-and-Kashmir_24562
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Douie, James McCrone, Sir
+    alias: Douie, Sir James McCrone
+    birthdate: 1854
+    deathdate: 1935
+    gutenberg_agent_id: '26585'
+    url: http://www.gutenberg.org/2009/agents/26585
+description: This book on "The Panjab North-West Frontier Province and Kashmir" by
+  Sir James Douie gives his accounts of the physiography, the flora and fauna, the
+  people and the administration which are essentially his personal recollections of
+  one who has first studied the details as a District Officer and later on corrected
+  his perspective, stage by stage, in his higher capacities and finally as officiating
+  Lieut. Governor. This book gives an accurate and well proportioned thumbnail sketch
+  of North-West India and the profuse illustrations enhance the value of the book.
+  -- Publisher.
+gutenberg_bookshelf: India
+gutenberg_issued: '2008-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Jammu and Kashmir (India)'
+- !lcsh 'India -- Description and travel'
+- !lcsh 'Punjab (India)'
+- !lcsh 'North-west Frontier Province (Pakistan)'
+title: The Panjab, North-West Frontier Province, and Kashmir
+url: http://www.gutenberg.org/ebooks/24562
